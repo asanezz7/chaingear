@@ -33,7 +33,7 @@ raised = [""]
 type = "website"
 name = "electroneum.com"
 url = "http://electroneum.com/"
-tags = "Electroneum ICO", "Electroneum", "Mobile Miner"
+tags = "Electroneum ICO"
 
 [[links]]
 type = "paper"
